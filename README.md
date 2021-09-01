@@ -1,2 +1,2 @@
-# Calendar-REST-API
- REST API para manter um calendario de tarefas
+# Calendar-API
+ API para manter um calendario de tarefas
